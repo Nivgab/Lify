@@ -1,4 +1,4 @@
- # vendetta-plugins
+# vendetta-plugins
 
 ## Lify
 Adds an "l" to the start of every word you send.
